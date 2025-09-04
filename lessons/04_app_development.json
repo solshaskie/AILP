@@ -10,6 +10,11 @@
             "text": "Once you're comfortable building complex automations, you can start to explore the world of AI app development. This involves creating applications that have AI at their core, rather than just using AI to automate a few tasks."
         },
         {
+            "type": "image",
+            "src": "assets/ai_development.png",
+            "alt": "A developer working on an AI application"
+        },
+        {
             "type": "h2",
             "text": "Key Concepts:"
         },
@@ -20,6 +25,133 @@
         {
             "type": "p",
             "text": "<strong>What they are:</strong> LLMs are a type of AI that can understand and generate human-like text. They are the technology behind chatbots like ChatGPT."
+        },
+        {
+            "type": "p",
+            "text": "<strong>Why they're important:</strong> They are the foundation for many AI-powered applications, from content creation to customer support."
+        },
+        {
+            "type": "p",
+            "text": "<strong>What to learn:</strong>"
+        },
+        {
+            "type": "list",
+            "items": [
+                "How LLMs work (at a high level)",
+                "Prompt engineering (the art of writing effective prompts for LLMs)",
+                "Fine-tuning (training an LLM on your own data)"
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "2. AI App Development Platforms"
+        },
+        {
+            "type": "p",
+            "text": "<strong>What they are:</strong> There are a number of platforms that make it easier to build AI-powered applications, without needing to be a machine learning expert."
+        },
+        {
+            "type": "p",
+            "text": "<strong>Why they're important:</strong> They provide pre-built models and tools that you can use to quickly build and deploy your own AI apps."
+        },
+        {
+            "type": "p",
+            "text": "<strong>What to learn:</strong>"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>OpenAI API:</strong> The API for accessing OpenAI's powerful language models, including GPT-3 and GPT-4.",
+                "<strong>LangChain:</strong> A framework for developing applications powered by language models.",
+                "<strong>Bubble:</strong> Can be used to build the front-end for your AI apps."
+            ]
+        },
+        {
+            "type": "quiz",
+            "question": "What is the term for the art of writing effective prompts for LLMs?",
+            "options": [
+                "Prompt engineering",
+                "Fine-tuning",
+                "Prompt architecture",
+                "LLM configuration"
+            ],
+            "answer": "Prompt engineering"
+        },
+        {
+            "type": "h2",
+            "text": "Project Ideas:"
+        },
+        {
+            "type": "h3",
+            "text": "1. AI-Powered Chatbot"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Description:</strong> Build a chatbot that can answer questions about a specific topic."
+        },
+        {
+            "type": "p",
+            "text": "<strong>Tools:</strong> OpenAI API, LangChain, Bubble"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Features:</strong>"
+        },
+        {
+            "type": "list",
+            "items": [
+                "A user-friendly interface for interacting with the chatbot",
+                "The ability to answer questions based on a specific set of documents",
+                "A \"memory\" of previous conversations"
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "2. Content Generation App"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Description:</strong> Build an app that can generate different types of content, such as blog posts, social media posts, or product descriptions."
+        },
+        {
+            "type": "p",
+            "text": "<strong>Tools:</strong> OpenAI API, Bubble"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Features:</strong>"
+        },
+        {
+            "type": "list",
+            "items": [
+                "A form for users to input their content requirements",
+                "The ability to generate content in different styles and tones",
+                "The ability to save and export the generated content"
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Recommended Resources:"
+        },
+        {
+            "type": "p",
+            "text": "<strong>OpenAI:</strong>"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<a href='https://beta.openai.com/docs'>OpenAI API Docs</a>"
+            ]
+        },
+        {
+            "type": "p",
+            "text": "<strong>LangChain:</strong>"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<a href='https://python.langchain.com/en/latest/index.html'>LangChain Docs</a>"
+            ]
         }
     ]
 }
