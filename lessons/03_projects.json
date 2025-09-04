@@ -10,6 +10,11 @@
             "text": "The best way to learn is by doing. Now that you have a foundational understanding of the key concepts and tools, it's time to start building your own automations. Start with simple projects and gradually work your way up to more complex ones."
         },
         {
+            "type": "image",
+            "src": "assets/project_planning.png",
+            "alt": "A person planning a project on a whiteboard"
+        },
+        {
             "type": "h2",
             "text": "Project Ideas:"
         },
@@ -22,13 +27,116 @@
             "text": "<strong>Description:</strong> Create a simple CRM to keep track of your personal and professional contacts."
         },
         {
-            "type": "tutorial",
-            "title": "Building a Personal CRM with Airtable and Zapier",
-            "steps": [
-                "Set up your Airtable base",
-                "Create a form to add new contacts",
-                "Create a Zap to connect your form to Airtable",
-                "Test your automation"
+            "type": "p",
+            "text": "<strong>Tools:</strong> Airtable, Zapier/Make"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Features:</strong>"
+        },
+        {
+            "type": "list",
+            "items": [
+                "A form to add new contacts (e.g., Tally, Jotform)",
+                "Automatically add new contacts to an Airtable base",
+                "Send a follow-up email to new contacts",
+                "Set reminders to follow up with contacts"
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "2. Social Media Content Scheduler"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Description:</strong> Create a system to automatically post content to your social media accounts."
+        },
+        {
+            "type": "p",
+            "text": "<strong>Tools:</strong> Airtable, Zapier/Make, Buffer/Hootsuite"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Features:</strong>"
+        },
+        {
+            "type": "list",
+            "items": [
+                "An Airtable base to store your content ideas",
+                "A view in Airtable to show content that is ready to be published",
+                "An automation that posts content to your social media accounts at a scheduled time"
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "3. Automated Invoicing System"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Description:</strong> Create a system to automatically generate and send invoices to clients."
+        },
+        {
+            "type": "p",
+            "text": "<strong>Tools:</strong> Airtable, Stripe, Zapier/Make"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Features:</strong>"
+        },
+        {
+            "type": "list",
+            "items": [
+                "An Airtable base to store your client and project information",
+                "A button in Airtable to trigger the invoicing process",
+                "An automation that generates an invoice and sends it to the client",
+                "An automation that marks the invoice as paid when the client pays"
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "4. AI-Powered Content Curation"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Description:</strong> Create a system that automatically finds and shares articles relevant to your interests."
+        },
+        {
+            "type": "p",
+            "text": "<strong>Tools:</strong> Feedly, OpenAI, Zapier/Make, Twitter/LinkedIn"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Features:</strong>"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Use Feedly to subscribe to your favorite blogs and news sources",
+                "Use OpenAI to summarize the articles",
+                "Use Zapier/Make to post the summarized articles to your social media accounts"
+            ]
+        },
+        {
+            "type": "quiz",
+            "question": "Which of the following is NOT a good practice when starting a new automation project?",
+            "options": [
+                "Starting with a small, simple project",
+                "Breaking the project down into smaller tasks",
+                "Trying to build a large, complex automation from the start",
+                "Asking for help from online communities"
+            ],
+            "answer": "Trying to build a large, complex automation from the start"
+        },
+        {
+            "type": "h2",
+            "text": "Tips for Success:"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Start small:</strong> Don't try to build a massive, complex automation on your first try. Start with something simple and build on it over time.",
+                "<strong>Break it down:</strong> Break down your project into smaller, manageable tasks. This will make it less overwhelming and easier to troubleshoot.",
+                "<strong>Don't be afraid to ask for help:</strong> There are many online communities and forums where you can get help with your automation projects."
             ]
         }
     ]
