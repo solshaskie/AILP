@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Load the first lesson by default
     if (lessons.length > 0) {
-        loadLesson(lessons.path);
+        loadLesson(lessons[0].path);
         navigation.querySelector('a').classList.add('active');
     }
 });
