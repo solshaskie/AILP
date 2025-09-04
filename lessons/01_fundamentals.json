@@ -1,0 +1,45 @@
+{
+    "title": "Step 1: Master the Fundamentals",
+    "content": [
+        {
+            "type": "h1",
+            "text": "Step 1: Master the Fundamentals"
+        },
+        {
+            "type": "p",
+            "text": "This first step is crucial for building a strong foundation in AI automation. Without understanding the core concepts, it will be difficult to build effective and reliable automations."
+        },
+        {
+            "type": "h2",
+            "text": "Key Concepts to Learn:"
+        },
+        {
+            "type": "h3",
+            "text": "1. APIs (Application Programming Interfaces)"
+        },
+        {
+            "type": "p",
+            "text": "<strong>What they are:</strong> APIs are the messengers that allow different software applications to communicate with each other. They are the backbone of almost all automation."
+        },
+        {
+            "type": "image",
+            "src": "assets/api_diagram.png",
+            "alt": "Diagram of how APIs work"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Why they're important:</strong> You'll use APIs to connect different services together. For example, connecting a lead-generation form on your website to a CRM, or connecting a chatbot to a database."
+        },
+        {
+            "type": "quiz",
+            "question": "What is the primary function of an API?",
+            "options": [
+                "To style web pages",
+                "To allow applications to communicate",
+                "To store data in a database",
+                "To create user interfaces"
+            ],
+            "answer": "To allow applications to communicate"
+        }
+    ]
+}

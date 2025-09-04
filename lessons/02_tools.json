@@ -1,0 +1,30 @@
+{
+    "title": "Step 2: Learn the Tools of the Trade",
+    "content": [
+        {
+            "type": "h1",
+            "text": "Step 2: Learn the Tools of the Trade"
+        },
+        {
+            "type": "p",
+            "text": "Once you have a grasp of the fundamentals, it's time to get hands-on with the platforms that you'll be using to build your automations. These tools provide a visual interface for connecting different applications and services, making it possible to build complex workflows without writing a lot of code."
+        },
+        {
+            "type": "h2",
+            "text": "Key Platforms to Learn:"
+        },
+        {
+            "type": "h3",
+            "text": "1. Zapier"
+        },
+        {
+            "type": "p",
+            "text": "<strong>What it is:</strong> Zapier is one of the most popular and user-friendly automation platforms. It has a massive library of pre-built integrations, making it easy to connect thousands of different apps."
+        },
+        {
+            "type": "video",
+            "src": "https://www.youtube.com/embed/example",
+            "title": "Introduction to Zapier"
+        }
+    ]
+}

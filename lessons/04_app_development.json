@@ -1,0 +1,25 @@
+{
+    "title": "Step 4: Explore AI App Development",
+    "content": [
+        {
+            "type": "h1",
+            "text": "Step 4: Explore AI App Development"
+        },
+        {
+            "type": "p",
+            "text": "Once you're comfortable building complex automations, you can start to explore the world of AI app development. This involves creating applications that have AI at their core, rather than just using AI to automate a few tasks."
+        },
+        {
+            "type": "h2",
+            "text": "Key Concepts:"
+        },
+        {
+            "type": "h3",
+            "text": "1. Large Language Models (LLMs)"
+        },
+        {
+            "type": "p",
+            "text": "<strong>What they are:</strong> LLMs are a type of AI that can understand and generate human-like text. They are the technology behind chatbots like ChatGPT."
+        }
+    ]
+}

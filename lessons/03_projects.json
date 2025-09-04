@@ -1,0 +1,35 @@
+{
+    "title": "Step 3: Build Practical Projects",
+    "content": [
+        {
+            "type": "h1",
+            "text": "Step 3: Build Practical Projects"
+        },
+        {
+            "type": "p",
+            "text": "The best way to learn is by doing. Now that you have a foundational understanding of the key concepts and tools, it's time to start building your own automations. Start with simple projects and gradually work your way up to more complex ones."
+        },
+        {
+            "type": "h2",
+            "text": "Project Ideas:"
+        },
+        {
+            "type": "h3",
+            "text": "1. Personal CRM"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Description:</strong> Create a simple CRM to keep track of your personal and professional contacts."
+        },
+        {
+            "type": "tutorial",
+            "title": "Building a Personal CRM with Airtable and Zapier",
+            "steps": [
+                "Set up your Airtable base",
+                "Create a form to add new contacts",
+                "Create a Zap to connect your form to Airtable",
+                "Test your automation"
+            ]
+        }
+    ]
+}
