@@ -10,6 +10,11 @@
             "text": "The field of AI is moving at an incredibly fast pace. New tools, techniques, and platforms are emerging all the time. To be successful in the long run, it's essential to make a continuous effort to stay up-to-date with the latest developments."
         },
         {
+            "type": "image",
+            "src": "assets/stay_current.png",
+            "alt": "A person reading news about AI on a tablet"
+        },
+        {
             "type": "h2",
             "text": "How to Stay Current:"
         },
@@ -20,6 +25,78 @@
         {
             "type": "p",
             "text": "<strong>Newsletters:</strong> Subscribe to newsletters that curate the latest news and trends in AI and automation."
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Ben's Bites:</strong> A daily newsletter with a roundup of the latest AI news.",
+                "<strong>The Rundown:</strong> Another popular daily AI newsletter."
+            ]
+        },
+        {
+            "type": "p",
+            "text": "<strong>Twitter/X:</strong> Follow AI researchers, engineers, and entrepreneurs to get real-time updates."
+        },
+        {
+            "type": "p",
+            "text": "<strong>Blogs:</strong> Read the blogs of companies like OpenAI, Google AI, and Hugging Face."
+        },
+        {
+            "type": "h3",
+            "text": "2. Join Online Communities"
+        },
+        {
+            "type": "p",
+            "text": "<strong>Skool:</strong> There are many communities on Skool (like the one that inspired this learning plan) where you can connect with other people who are learning and building in the AI space."
+        },
+        {
+            "type": "p",
+            "text": "<strong>Discord:</strong> There are also many Discord servers dedicated to AI and automation."
+        },
+        {
+            "type": "p",
+            "text": "<strong>Reddit:</strong> Subreddits like r/artificial, r/singularity and r/LocalLLaMA are great places to learn and discuss the latest developments."
+        },
+        {
+            "type": "h3",
+            "text": "3. Experiment with New Tools"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Don't be afraid to try new things:</strong> When you hear about a new tool or platform, give it a try. The hands-on experience will help you understand its capabilities and how it might fit into your workflow.",
+                "<strong>Build small projects:</strong> The best way to learn a new tool is to build something with it."
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "4. Attend Webinars and Events"
+        },
+        {
+            "type": "list",
+            "items": [
+                "<strong>Online Events:</strong> There are many free and paid online events where you can learn from experts in the field.",
+                "<strong>In-Person Events:</strong> If you have the opportunity, attend in-person conferences and meetups to network with other people in the AI community."
+            ]
+        },
+        {
+            "type": "quiz",
+            "question": "Which of the following is a good way to stay current with the latest AI developments?",
+            "options": [
+                "Subscribing to AI newsletters",
+                "Joining online communities",
+                "Experimenting with new tools",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "type": "h2",
+            "text": "Final Thoughts"
+        },
+        {
+            "type": "p",
+            "text": "This learning plan provides a roadmap for your journey into the world of AI automation and app development. Remember that the most important thing is to be consistent and to never stop learning. Good luck!"
         }
     ]
 }
